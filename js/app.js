@@ -6,7 +6,7 @@ var $ledimg =$('#ledimg');
 var $ledprice =$('#ledprice');
 
 
-$.getJSON('../leds.json', function(data) {
+$.getJSON('leds.json', function(data) {
 	
 	
 
