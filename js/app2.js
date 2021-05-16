@@ -6,7 +6,7 @@ var $trfimg =$('#trfimg');
 var $trfprice =$('#trfprice');
 
 
-$.getJSON('../js/trf.js', function(data2) {
+$.getJSON('../js/trf.json', function(data2) {
 	
 	
 
